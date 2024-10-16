@@ -1,5 +1,5 @@
 # Dani Akisanya👋
-## My favorite snacks
+## My Favorite Snacks
 - Boom Chika pop
 - Twix
 - Kitkat
