@@ -1,4 +1,9 @@
-## Hi there 👋
+# Dani Akisanya👋
+## My favorite snacks
+- Boom Chika pop
+- Twix
+- Kitkat
+- Vanilla Icecream
 
 <!--
 **Daniella753/Daniella753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
